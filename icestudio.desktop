@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=IceStudio
+Comment=Open-source visual FPGA IDE
+Exec=icestudio %f
+Icon=icestudio
+Terminal=false
+Type=Application
+MimeType=application/x-godot-project;
+Categories=Development;IDE;
